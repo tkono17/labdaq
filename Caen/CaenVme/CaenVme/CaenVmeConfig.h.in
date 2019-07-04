@@ -1,0 +1,2 @@
+#define CaenVme_VERSION_MAJOR @CaenVme_VERSION_MAJOR@
+#define CaenVme_VERSION_MINORR @CaenVme_VERSION_MINOR@
