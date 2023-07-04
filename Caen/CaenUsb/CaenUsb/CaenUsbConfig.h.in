@@ -1,0 +1,2 @@
+#define CaenUsb_VERSION_MAJOR @CaenUsb_VERSION_MAJOR@
+#define CaenUsb_VERSION_MINOR @CaenUsb_VERSION_MINOR@

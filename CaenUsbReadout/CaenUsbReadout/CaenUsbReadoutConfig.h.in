@@ -1,0 +1,2 @@
+#define CaenUsbReadout_VERSION_MAJOR @CaenUsbReadout_VERSION_MAJOR@
+#define CaenUsbReadout_VERSION_MINOR @CaenUsbReadout_VERSION_MINOR@
